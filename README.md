@@ -19,10 +19,10 @@ I am **fully prepared and highly motivated** to take the next step in my tech ca
 
 ## 🎯 My Vision & Passion
 
-I believe in **technology that solves real-world problems**. With this mindset, I’m currently building a startup called:
+I believe in **technology that solves real-world problems**. With this mindset, I’m currently building:
 
 ## 🔔 AttendPulse  
-A smart event-tech company transforming the way people create, manage, and attend events.
+A smart event-tech Business transforming the way people create, manage, and attend events.
 
 ### 🌟 Flagship App: **Eventa**
 > *Your all-in-one, cloud-powered event manager.*
@@ -61,8 +61,8 @@ A smart event-tech company transforming the way people create, manage, and atten
 ## 🛠️ Projects Built
 
 ### 📱 Eventa – (MVP in Progress)
-*AttendPulse’s first mobile product.*  
-Built with Flutter and Firebase (testing phase), to be migrated to AWS infrastructure.
+*AttendPulse’s first  product.*  
+Built with MERN stack
 
 ### ☁️ AWS Cloud Automation Scripts
 A repository of reusable IaC (Infrastructure as Code) scripts using AWS CLI and Terraform, enabling repeatable deployments across environments.
